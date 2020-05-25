@@ -1,0 +1,6 @@
+rootProject.name='MRouter'
+include ':app'
+include ':annotationCompiler'
+include ':annotation'
+include ':router'
+include ':secend_module'
